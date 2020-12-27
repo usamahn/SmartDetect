@@ -13,10 +13,14 @@ faking official and institutional communications to delude the recipient of thes
 So we propose an AI-powered solution that detects fake news in social media to help the government has better insights into the community and control the situation. 
 To ensure better communication between them and the citizens in time of crises.
 
+
+
 ### -features developed:
 	- Dashboard for displaying news from social media about Covid-19
 	- Classify news into two categories: fake or real
 	- Classification based on AI and machine learning
+	
+	![alt text](small architecture.png)
 
 ### -features to be developed:
 	- Classify the propaganda technique of the news
