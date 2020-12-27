@@ -15,20 +15,22 @@ To ensure better communication between them and the citizens in time of crises.
 
 
 
-### - features developed:
+### - Features developed:
 	- Dashboard for displaying news from social media about Covid-19
 	- Classify news into two categories: fake or real
 	- Classification based on AI and machine learning
 
 ![alt text](https://github.com/usamahn/SmartDetect/blob/main/small%20architecture.png)
 
-### - features to be developed:
+### - Features to be developed:
 	- Classify the propaganda technique of the news
 	- Knowing the propaganda technique will the government in the decision making
 	- Show the sources of each fake/real post
 	- Working not only on Covid 19 news but all type of crises news
 	- Make a web browser extension to analyze in real-time the browser content
 	- Automatic scraping the most influenced posts on social media to classify them
+
+![alt text](https://github.com/usamahn/SmartDetect/blob/main/big%20architecture.png)
 
 ### -Structure of the code:
 	- The code is divided into 2 parts
