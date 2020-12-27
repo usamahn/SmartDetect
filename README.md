@@ -20,7 +20,7 @@ To ensure better communication between them and the citizens in time of crises.
 	- Classify news into two categories: fake or real
 	- Classification based on AI and machine learning
 	
-	![alt text](small architecture.png)
+	![alt text](https://github.com/usamahn/SmartDetect/blob/main/small%20architecture.png)
 
 ### -features to be developed:
 	- Classify the propaganda technique of the news
